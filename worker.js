@@ -13,7 +13,7 @@
 
 // --- [第一部分: 核心配置] ---
 const CONFIG = {
-  PROJECT_NAME: "mindvideo-2api",
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5taW5kdmlkZW8uYWkvYXBpL2dvb2dsZS9jYWxsYmFjayIsImlhdCI6MTc2NjYzNDQ3MCwiZXhwIjoxNzY2NjQxNjcwLCJuYmYiOjE3NjY2MzQ0NzAsImp0aSI6IkxseGRMNmtVbE05enkyMkUiLCJzdWIiOiIxMTc1NjI3IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsInVpZCI6MTE3NTYyNywiZW1haWwiOiJ5dXFpbDMxNTdAZ21haWwuY29tIiwiaXNOZXciOnRydWV9.pG5RXKRa9p3wQ65vKwbgFjK8R-k8sSUxKm1eiiL_EMU  PROJECT_NAME: "mindvideo-2api",
   PROJECT_VERSION: "3.2.0",
   
   // --- 安全配置 ---
